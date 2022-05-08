@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Verduleria/static/css/main.e6c13ad2.css",
+    "main.js": "/Verduleria/static/js/main.50f73de9.js",
+    "static/js/787.fc6c31ee.chunk.js": "/Verduleria/static/js/787.fc6c31ee.chunk.js",
+    "index.html": "/Verduleria/index.html",
+    "main.e6c13ad2.css.map": "/Verduleria/static/css/main.e6c13ad2.css.map",
+    "main.50f73de9.js.map": "/Verduleria/static/js/main.50f73de9.js.map",
+    "787.fc6c31ee.chunk.js.map": "/Verduleria/static/js/787.fc6c31ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.50f73de9.js"
+  ]
+}
